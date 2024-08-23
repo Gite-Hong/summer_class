@@ -1,0 +1,53 @@
+﻿  opencv.cpp
+C:\summer\opencv.cpp(182,9): warning C4005: 'imax': 매크로 재정의
+C:\summer\opencv.cpp(183,9): warning C4005: 'imin': 매크로 재정의
+C:\summer\opencv.cpp(216,40): warning C4244: '=': 'int'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\summer\opencv.cpp(216,40): warning C4244:         with
+C:\summer\opencv.cpp(216,40): warning C4244:         [
+C:\summer\opencv.cpp(216,40): warning C4244:             _Tp=float
+C:\summer\opencv.cpp(216,40): warning C4244:         ]
+C:\summer\opencv.cpp(373,9): warning C4101: 'thress' :참조되지 않은 지역 변수입니다.
+C:\summer\opencv.cpp(397,9): warning C4101: 'thres' :참조되지 않은 지역 변수입니다.
+C:\summer\opencv.cpp(544,48): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\summer\opencv.cpp(559,22): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\summer\opencv.cpp(559,52): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\summer\opencv.cpp(677,16): warning C4129: ' ': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+C:\summer\opencv.cpp(770,13): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\summer\opencv.cpp(797,46): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\summer\opencv.cpp(799,76): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\summer\opencv.cpp(801,77): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\summer\opencv.cpp(878,40): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\summer\opencv.cpp(940,48): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\summer\opencv.cpp(943,68): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\summer\opencv.cpp(946,72): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\summer\opencv.cpp(1521,22): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\summer\opencv.cpp(1521,44): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\summer\opencv.cpp(1521,66): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\summer\opencv.cpp(1522,22): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\summer\opencv.cpp(1522,44): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\summer\opencv.cpp(1522,66): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\summer\opencv.cpp(1523,22): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\summer\opencv.cpp(1523,44): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\summer\opencv.cpp(1523,66): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\summer\opencv.cpp(1742,61): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\summer\opencv.cpp(1743,67): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\summer\opencv.cpp(1744,67): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\summer\opencv.cpp(1765,53): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\summer\opencv.cpp(1949,39): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\summer\opencv.cpp(1978,39): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\summer\opencv.cpp(2279,49): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\summer\opencv.cpp(2279,40): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\summer\opencv.cpp(2300,47): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\summer\opencv.cpp(2300,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\summer\opencv.cpp(2311,50): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\summer\opencv.cpp(2311,41): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\summer\opencv.cpp(2314,32): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\summer\opencv.cpp(2314,23): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\summer\opencv.cpp(2327,14): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\summer\opencv.cpp(2354,17): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\summer\opencv.cpp(2383,17): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\summer\opencv.cpp(2415,21): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\summer\opencv.cpp(2416,21): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\summer\opencv.cpp(2430,17): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\summer\opencv.cpp(2433,17): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  summer.vcxproj -> C:\summer\x64\Debug\summer.exe

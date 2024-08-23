@@ -1,0 +1,16 @@
+﻿오후 5:00에 빌드를 시작함...
+1>------ 빌드 시작: 프로젝트: summer, 구성: Debug x64 ------
+1>opencv.cpp
+1>D:\hong\summer\opencv.cpp(175,9): warning C4005: 'imax': 매크로 재정의
+1>D:\hong\summer\opencv.cpp(176,9): warning C4005: 'imin': 매크로 재정의
+1>D:\hong\summer\opencv.cpp(209,34): warning C4244: '=': 'int'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+1>D:\hong\summer\opencv.cpp(209,34): warning C4244:         with
+1>D:\hong\summer\opencv.cpp(209,34): warning C4244:         [
+1>D:\hong\summer\opencv.cpp(209,34): warning C4244:             _Tp=float
+1>D:\hong\summer\opencv.cpp(209,34): warning C4244:         ]
+1>D:\hong\summer\opencv.cpp(488,10): warning C4129: ' ': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
+1>D:\hong\summer\opencv.cpp(585,10): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+1>summer.vcxproj -> D:\hong\summer\x64\Debug\summer.exe
+1>"summer.vcxproj" 프로젝트를 빌드했습니다.
+========== 빌드: 1개 성공, 0개 실패, 0개 최신 상태, 0개 건너뜀 ==========
+========== 빌드이(가) 오후 5:01에 완료되었으며, 06.575 초이(가) 걸림 ==========
